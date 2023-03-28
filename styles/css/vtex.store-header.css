@@ -21,6 +21,9 @@
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
+.tc.ph4 {
+  display: none;
+}
 
 /* add a box-shadow to desktop/mobile header when stuck */
 :global(.vtex-sticky-layout-0-x-wrapper--stuck)

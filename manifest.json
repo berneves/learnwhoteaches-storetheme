@@ -1,7 +1,7 @@
 {
-  "vendor": "vtex",
+  "vendor": "bernardoio",
   "name": "store-theme",
-  "version": "5.1.0",
+  "version": "1.0.3",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
@@ -65,7 +65,7 @@
     "vtex.css-handles": "1.x"
   },
   "peerDependencies": {
-    "vtex.reviews-and-ratings": "3.x"
+    "vtex.cross-device-cart": "1.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
