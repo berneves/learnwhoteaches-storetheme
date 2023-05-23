@@ -9,6 +9,7 @@
       "rich-text#shelf-title",
       "flex-layout.row#shelf",
       "info-card#home",
+      "product-summary-test",
       "rich-text#question",
       "rich-text#link",
       "newsletter"
